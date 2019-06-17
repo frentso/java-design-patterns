@@ -69,7 +69,7 @@ public final class App {
    */
   public static void main(String[] args) throws Exception {
     noErrors();
-    errorNoRetry();
+//    errorNoRetry();
     errorWithRetry();
   }
 
